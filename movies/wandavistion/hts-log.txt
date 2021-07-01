@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 01 Jul 2021 09:09:57 at https://hmnvrfy.com/77e8fd0 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://hmnvrfy.com/77e8fd0 -O1 "C:\Users\user\Desktop\movies\wandavistion" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:10:18	Error: 	"Not Found" (404) at link https://hmnvrfy.com/customTemplateGlobal.set (from https://hmnvrfy.com/77e8fd0)
+09:10:18	Error: 	"Not Found" (404) at link https://hmnvrfy.com/You must include the utils.js file before tether.js (from https://d13pxqgp3ixdbh.cloudfront.net/assets/landing_pages/tether.min.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 21 seconds : 39 links scanned, 36 files written (3157966 bytes overall) [3129250 bytes received at 149011 bytes/sec], 71058 bytes transferred using HTTP compression in 2 files, ratio 31%, 2.2 requests per connection
+(2 errors, 0 warnings, 0 messages)
